@@ -1,0 +1,151 @@
+student_id,student_name,age,course,attendance_percent,assignment_avg,final_score
+1,Mariam ElSayed,10,Data Analysis with Python,68,79,74.6
+2,Mahmoud Khaled,13,Data Analysis with Python,86,97,92.6
+3,Menna Ibrahim,13,Data Analysis with Python,95,60,74.0
+4,Aya Abdelrahman,11,Web Development,85,96,91.6
+5,Salma Said,11,Data Analysis with Python,60,87,76.2
+6,Youssef Mostafa,16,Web Development,96,94,94.8
+7,Ali Fathy,18,Web Development,93,75,82.2
+8,Ali Ibrahim,15,Python Basics,74,79,77.0
+9,Fatma Said,12,Data Analysis with Python,68,60,63.2
+10,Hala Hassan,14,Web Development,78,88,84.0
+11,Mariam Khaled,14,Data Analysis with Python,73,60,65.2
+12,Fatma Ali,15,Web Development,84,77,79.8
+13,Mariam Hassan,15,Data Analysis with Python,83,93,89.0
+14,Amr Ali,10,Python Basics,83,68,74.0
+15,Fatma Hassan,16,Web Development,66,82,75.6
+16,Youssef Said,14,Data Analysis with Python,81,91,87.0
+17,Ali Said,14,Data Analysis with Python,88,72,78.4
+18,Aya Ibrahim,10,Data Analysis with Python,81,79,79.8
+19,Menna Mahmoud,10,Python Basics,92,89,90.2
+20,Ali Hassan,12,Python Basics,66,75,71.4
+21,Esraa Mahmoud,13,Web Development,75,71,72.6
+22,Mostafa Said,18,Data Analysis with Python,71,80,76.4
+23,Ali Ali,15,Web Development,83,88,86.0
+24,Mohamed Ali,12,Data Analysis with Python,79,89,85.0
+25,Ali Fathy,14,Python Basics,94,83,87.4
+26,Fatma Mahmoud,13,Web Development,96,98,97.2
+27,Farah Said,17,Data Analysis with Python,61,97,82.6
+28,Hala Ibrahim,10,Python Basics,77,83,80.6
+29,Ali Ali,11,Data Analysis with Python,66,75,71.4
+30,Fatma Khaled,18,Web Development,94,82,86.8
+31,Mostafa Ibrahim,13,Data Analysis with Python,100,64,78.4
+32,Salma Ali,14,Web Development,68,81,75.8
+33,Hala Ibrahim,18,Web Development,68,80,75.2
+34,Youssef Mahmoud,11,Web Development,63,80,73.2
+35,Farah Said,18,Python Basics,87,66,74.4
+36,Nour Mahmoud,10,Web Development,81,70,74.4
+37,Karim Khaled,13,Data Analysis with Python,71,62,65.6
+38,Mostafa Mahmoud,11,Python Basics,77,78,77.6
+39,Hala ElSayed,16,Data Analysis with Python,86,61,71.0
+40,Ali Mahmoud,15,Web Development,76,81,79.0
+41,Aya Mostafa,18,Python Basics,99,83,89.4
+42,Salma Ibrahim,18,Data Analysis with Python,76,86,82.0
+43,Hassan Abdelrahman,12,Data Analysis with Python,83,68,74.0
+44,Mohamed ElSayed,13,Data Analysis with Python,70,74,72.4
+45,Mohamed Khaled,10,Python Basics,95,76,83.6
+46,Hassan Ali,11,Web Development,75,60,66.0
+47,Menna Fathy,16,Data Analysis with Python,77,94,87.2
+48,Menna ElSayed,15,Web Development,72,97,87.0
+49,Menna Mahmoud,14,Web Development,73,92,84.4
+50,Menna Abdelrahman,14,Data Analysis with Python,74,87,81.8
+51,Nour ElSayed,18,Data Analysis with Python,93,63,75.0
+52,Aya Mahmoud,16,Data Analysis with Python,79,70,73.6
+53,Menna Abdelrahman,14,Web Development,90,71,78.6
+54,Youssef Hassan,15,Python Basics,63,95,82.2
+55,Aya Mostafa,14,Python Basics,89,82,84.8
+56,Farah Ali,18,Python Basics,77,82,80.0
+57,Esraa ElSayed,13,Python Basics,65,69,67.4
+58,Fatma Fathy,16,Data Analysis with Python,85,66,73.6
+59,Ahmed Mahmoud,13,Web Development,77,64,69.2
+60,Mahmoud Ali,13,Data Analysis with Python,85,79,81.4
+61,Nour Ali,16,Data Analysis with Python,96,61,75.0
+62,Mariam Khaled,14,Data Analysis with Python,64,73,69.4
+63,Mariam Mahmoud,11,Python Basics,69,74,72.0
+64,Mahmoud Abdelrahman,16,Web Development,78,88,84.0
+65,Nour Said,11,Web Development,96,64,76.8
+66,Mostafa Fathy,15,Web Development,88,67,75.4
+67,Omar Mahmoud,15,Python Basics,63,66,64.8
+68,Mahmoud Hassan,16,Web Development,75,81,78.6
+69,Mahmoud Mostafa,12,Python Basics,97,96,96.4
+70,Amr Ali,12,Data Analysis with Python,72,100,88.8
+71,Fatma Mostafa,18,Web Development,63,83,75.0
+72,Fatma Mostafa,17,Data Analysis with Python,63,98,84.0
+73,Aya Mostafa,14,Python Basics,62,66,64.4
+74,Youssef ElSayed,14,Web Development,82,97,91.0
+75,Sara ElSayed,14,Data Analysis with Python,61,91,79.0
+76,Omar Fathy,10,Data Analysis with Python,89,66,75.2
+77,Mahmoud Mostafa,12,Web Development,69,77,73.8
+78,Mariam ElSayed,18,Web Development,95,61,74.6
+79,Aya Mostafa,17,Web Development,68,67,67.4
+80,Mohamed Ibrahim,18,Python Basics,87,65,73.8
+81,Youssef Ibrahim,17,Data Analysis with Python,90,67,76.2
+82,Salma Khaled,18,Data Analysis with Python,99,60,75.6
+83,Hassan Mahmoud,13,Python Basics,87,71,77.4
+84,Karim Mahmoud,12,Web Development,93,81,85.8
+85,Hala Fathy,11,Data Analysis with Python,65,78,72.8
+86,Karim Khaled,10,Web Development,77,96,88.4
+87,Farah Said,16,Python Basics,78,66,70.8
+88,Fatma Ibrahim,18,Data Analysis with Python,98,99,98.6
+89,Menna Ali,13,Web Development,89,94,92.0
+90,Karim Ali,11,Web Development,83,87,85.4
+91,Youssef Khaled,17,Web Development,71,83,78.2
+92,Menna Ibrahim,12,Data Analysis with Python,76,98,89.2
+93,Hassan Said,15,Data Analysis with Python,67,68,67.6
+94,Hassan Mahmoud,10,Web Development,69,76,73.2
+95,Mariam Abdelrahman,18,Data Analysis with Python,84,61,70.2
+96,Mostafa Mostafa,10,Python Basics,68,100,87.2
+97,Menna Mahmoud,13,Web Development,73,85,80.2
+98,Mahmoud Mostafa,13,Data Analysis with Python,85,67,74.2
+99,Hala Hassan,18,Data Analysis with Python,65,88,78.8
+100,Esraa Mahmoud,11,Web Development,76,87,82.6
+101,Farah Ali,15,Python Basics,98,68,80.0
+102,Nour Said,11,Data Analysis with Python,78,62,68.4
+103,Salma Said,18,Web Development,99,79,87.0
+104,Menna Mostafa,10,Web Development,61,68,65.2
+105,Omar Mostafa,17,Data Analysis with Python,71,61,65.0
+106,Hassan Hassan,18,Python Basics,91,99,95.8
+107,Salma Ibrahim,13,Web Development,96,88,91.2
+108,Mostafa Ali,15,Web Development,79,86,83.2
+109,Nour ElSayed,14,Data Analysis with Python,71,71,71.0
+110,Omar Hassan,14,Web Development,72,87,81.0
+111,Omar Khaled,12,Python Basics,78,74,75.6
+112,Karim Mostafa,16,Data Analysis with Python,77,65,69.8
+113,Menna Fathy,13,Web Development,61,65,63.4
+114,Farah Mostafa,10,Data Analysis with Python,89,80,83.6
+115,Salma Said,11,Python Basics,71,89,81.8
+116,Karim Hassan,16,Python Basics,98,82,88.4
+117,Amr Mahmoud,11,Python Basics,95,84,88.4
+118,Hassan Ibrahim,17,Web Development,75,86,81.6
+119,Esraa Said,16,Python Basics,78,64,69.6
+120,Mariam ElSayed,11,Data Analysis with Python,92,78,83.6
+121,Sara Fathy,17,Data Analysis with Python,71,97,86.6
+122,Karim Said,11,Web Development,98,85,90.2
+123,Karim Ibrahim,17,Web Development,85,98,92.8
+124,Mariam Ibrahim,11,Python Basics,67,91,81.4
+125,Ali Hassan,11,Python Basics,100,91,94.6
+126,Youssef Said,11,Web Development,87,70,76.8
+127,Mostafa Hassan,17,Data Analysis with Python,62,87,77.0
+128,Esraa Ibrahim,12,Python Basics,100,81,88.6
+129,Salma Said,13,Data Analysis with Python,64,74,70.0
+130,Salma ElSayed,13,Data Analysis with Python,95,77,84.2
+131,Omar Mahmoud,13,Data Analysis with Python,60,80,72.0
+132,Farah Said,16,Data Analysis with Python,65,63,63.8
+133,Amr Ibrahim,18,Python Basics,96,69,79.8
+134,Esraa Mostafa,18,Python Basics,77,77,77.0
+135,Mahmoud Hassan,17,Web Development,95,73,81.8
+136,Hassan Khaled,16,Data Analysis with Python,72,72,72.0
+137,Mariam Fathy,13,Data Analysis with Python,61,85,75.4
+138,Menna Abdelrahman,17,Data Analysis with Python,89,67,75.8
+139,Aya Fathy,13,Web Development,64,91,80.2
+140,Karim Abdelrahman,15,Python Basics,74,80,77.6
+141,Esraa Hassan,18,Python Basics,91,65,75.4
+142,Salma Mahmoud,18,Data Analysis with Python,97,63,76.6
+143,Salma Fathy,16,Python Basics,73,72,72.4
+144,Mostafa Ibrahim,10,Web Development,61,92,79.6
+145,Amr Ali,14,Web Development,75,63,67.8
+146,Aya Ali,14,Python Basics,97,82,88.0
+147,Hala Ibrahim,15,Web Development,76,75,75.4
+148,Ahmed Fathy,10,Data Analysis with Python,72,94,85.2
+149,Amr Ibrahim,16,Data Analysis with Python,79,67,71.8
+150,Fatma Mahmoud,15,Python Basics,81,69,73.8
