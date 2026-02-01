@@ -26,4 +26,4 @@ Ideal for:
 ## How to Run
 ```bash
 pip install -r requirements.txt
-python src/generate_reports.py
+python src_code/generate_reports.py
